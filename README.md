@@ -1,5 +1,7 @@
 # React Native App
 
+# ID: 11218606
+
 ## Description
 
 This is a simple React Native application that displays the text "My name is YourName" on the screen. The background color of the screen is set to a light blue color, and the font size of the text is increased to 24 points. Additionally, the name "YourName" is displayed in bold.
