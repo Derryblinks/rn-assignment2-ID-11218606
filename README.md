@@ -1,3 +1,21 @@
+# React Native App
+
+## Description
+
+This is a simple React Native application that displays the text "My name is YourName" on the screen. The background color of the screen is set to a light blue color, and the font size of the text is increased to 24 points. Additionally, the name "YourName" is displayed in bold.
+
+## Screenshot
+
+![Screenshot of the React Native App](screenshot.jpeg)
+
+## Task
+
+1. Change the background color of the `View` component to a light blue color.
+2. Edit the `Text` component to display "My name is YourName".
+3. Increase the font size of the text to 24 points.
+4. Make the name "YourName" bold.
+5. Add a README file with a screenshot of the application and a description of the task.
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
@@ -34,17 +52,3 @@ npm run reset-project
 ```
 
 This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
